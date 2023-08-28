@@ -236,7 +236,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - Learn more about [Markdown](https://docs.github.com/github/writing-on-github).
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions)
 - [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/get-started).
+- [Read the GitHub Getting Started docs](https://docs.github.com/get-started)
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 </details>
